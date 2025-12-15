@@ -1,6 +1,3 @@
-![thumbnail](![alt text](image.png))
-
-
 ### Features - 
 
 - Modern Stack (Next.js + TailwindCSS)
